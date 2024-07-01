@@ -1,1 +1,3 @@
-# README
+👨‍💻 Software Engineer | 🚀 Full Stack Developer | 🌐 Kubernetes & Docker Enthusiast | 💾 MySQL Expert | 🔍 Microservices Architect | 💻 C++/Java/Python Developer | 🤖 Machine Learning & Deep Learning Aficionado
+
+Passionate about building scalable and efficient software solutions. Skilled in Flutter for mobile app development, and experienced in creating robust back-end systems with Kubernetes and Docker. Proficient in database management with MySQL and adept at designing microservices architecture. A versatile programmer with expertise in C++, Java, and Python, and a keen interest in the latest advancements in machine learning and deep learning.
